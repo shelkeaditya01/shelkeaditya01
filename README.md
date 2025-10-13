@@ -37,11 +37,12 @@ Spring-Boot, DevOps, Node, Machine Learning.
 
 ---
 
+
 # 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shelkeaditya01&theme=default&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelkeaditya01&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelkeaditya01&theme=default&hide_border=false&layout=compact&langs_count=8" height="200"/>
 </div>
 
 <br/>
@@ -51,11 +52,10 @@ Spring-Boot, DevOps, Node, Machine Learning.
 </div>
 
 ---
-
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=shelkeaditya01&icon=0&color=0" alt="Profile visit count">
-  </a>
+  <img src="https://visitcount.itsvg.in/api?id=shelkeaditya01&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views"/>
 </div>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
