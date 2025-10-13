@@ -37,7 +37,6 @@ Spring-Boot, DevOps, Node, Machine Learning.
 
 ---
 
-
 # 📊 GitHub Stats:
 
 <div align="center">
@@ -52,10 +51,11 @@ Spring-Boot, DevOps, Node, Machine Learning.
 </div>
 
 ---
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shelkeaditya01&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views"/>
-</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubham-K9&label=Profile%20Views&color=0b5fff&style=flat" alt="Profile Views" />
+</p>
 
 
-
+//This
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
