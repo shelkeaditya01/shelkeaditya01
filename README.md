@@ -1,4 +1,5 @@
-# 💫 About Me:
+Hii!! I'm Aditya Shelke.
+A passionate Software Engineer from India!
 Spring-Boot, DevOps, Node, Machine Learning.
 
 
