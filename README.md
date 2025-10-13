@@ -1,5 +1,6 @@
-Hii!! I'm Aditya Shelke.
-A passionate Software Engineer from India!
+<h1 align="center">Hii!! 👋, I'm Aditya Shelke.</h1>
+<h3 align="center">A passionate Software Engineering student from India.</h3>
+<img align = "right"  alt = "gif"  width = "400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 Spring-Boot, DevOps, Node, Machine Learning.
 
 
