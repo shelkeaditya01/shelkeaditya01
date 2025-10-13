@@ -41,7 +41,7 @@ Spring-Boot, DevOps, Node, Machine Learning.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shelkeaditya01&theme=default&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelkeaditya01&theme=default&hide_border=false&layout=compact&langs_count=8" height="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelkeaditya01&theme=default&hide_border=false&layout=compact&langs_count=8" height="200"/>
 </div>
 
 <br/>
