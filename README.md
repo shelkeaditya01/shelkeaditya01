@@ -54,7 +54,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubham-K9&label=Profile%20Views&color=0b5fff&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shelkeaditya01&label=Profile%20Views&color=0b5fff&style=flat" alt="Profile Views" />
 </p>
 
 <!--This -->
